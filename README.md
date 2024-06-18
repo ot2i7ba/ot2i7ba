@@ -21,6 +21,7 @@ May the code be with you!
 Feel free to connect, share tips, or just say hi. I'm always open to learning from the wise wizards of code!
 
 
+[![](https://visitcount.itsvg.in/api?id=ot2i7ba&label=Profile%20Views&color=12&icon=3&pretty=false)](https://visitcount.itsvg.in)
 
 <!--
 **ot2i7ba/ot2i7ba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
