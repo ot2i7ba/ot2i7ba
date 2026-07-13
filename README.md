@@ -6,4 +6,4 @@ All my tools and scripts are published under the MIT License to encourage learni
 > Due to repeated disregard for the fundamental conditions of the MIT License, some of my projects have sadly been made private and are no longer shared openly. This unfortunate step is a direct result of misuse and lack of proper credit by others. Collaboration and transparency thrive only when we respect each other's contributions. Open source is built on trust—when that trust is broken, the whole community loses opportunities for improvement and shared progress.
 
 ###### CONTACT
-**E-MAIL**: github[at]ot2i7ba[dot]de
+**E-MAIL**: github[at]ot2i7ba[dot]de | **SUPPORT**: ☕ [RedThread on Ko-fi](https://ko-fi.com/ot2i7ba/5)
